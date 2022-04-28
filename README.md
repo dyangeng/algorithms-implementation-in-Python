@@ -2,7 +2,7 @@
 This will be the collection of algorithms that I came over from various sources, and implemented in Python.
 
 Source of reference: <br >
-Courses:
+Courses:<br>
 Course title: Data Science Foundation: Data Structures and Algorithms Specialization. <br >
 Course Platform: Coursera. <br >
 Course Intrustor: Prof. Sriram Santaranarayanan. <br >
