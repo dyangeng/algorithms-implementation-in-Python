@@ -12,4 +12,8 @@ Books:<br>
 Book title: Introduction to Algorithms, Third Edition <br>
 Authors: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein <br>
 Publications: The MIT Press <br>
-Publication year: 2009 <br>
+Publication year: 2009 <br><br>
+Book title: Algorithms for Dummies <br>
+Authors: John Paul Mueleer, Luca Massaron <br>
+Publications: Wiley <br>
+Publication year: 2017 <br>
